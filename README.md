@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Dmitry, I'm a software developer from  Ukraine :ukraine:.  Unfortunately, I had to leave my country, and right now I'm searching for a new place to stay.
-I'm a JS guy, and 90% of my time work with Angular. I used to work with React, but, it was a long time ago 😄😄😄
+My name is Dmitry, I'm a software developer from  Ukraine :ukraine: .  Unfortunately, I had to leave my country, and right now I'm searching for a new place to stay.
+I'm a JS guy, and 90% of my time working with Angular. I used to work with React, but, it was a long time ago 😄😄😄
 I'm a huge OSS fan, and used to be a contributor to famous libraries, for example, [ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap)
 
 ⚡ Some interesting facts about me:
