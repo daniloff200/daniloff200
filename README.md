@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Dmytro, I'm a software developer from  Ukraine :ukraine: .  Unfortunately, I had to leave my country, and right now I'm searching for a new place to stay.
+My name is Dmytro, I'm a software developer from  Ukraine 🇺🇦 , currently in 🇵🇱 .
 I'm a JS guy, and 90% of my time working with Angular. I used to work with React, but, it was a long time ago 😄😄😄
 I'm a huge OSS fan, and used to be a contributor to famous libraries, for example, [ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap)
 
