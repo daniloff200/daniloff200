@@ -5,7 +5,7 @@ I'm a huge OSS fan, and used to be a contributor to famous libraries, for exampl
 
 ⚡ Some interesting facts about me:
 1) Have a :cat:, which looks like A.Hitler (or, C.Chaplin, depending on the person)
-2) I'm a beer caps collector <del> hope, one day I will finish the app with my collection, haha </del> :beer: 
+2) I'm a beer caps collector, and I finally got site with my collection  :beer: [Check it out](https://my-caps-collection-v2.web.app/) 
 3) Original Apple :apple: hater: I really don't like macOS and iOS, because of a bunch of stuff, that always breaks there
 4) Like to play some PC/PS5 games. Wanna play with me? Write me on Twitter / Linkedin (you can find  a link in my github ), or, find me on Telegram, with the same id, as here
 5) I'm a huge fan of  Marvel / DC stuff :superhero: :supervillain:
